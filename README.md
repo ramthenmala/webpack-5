@@ -17,3 +17,7 @@ npm i --save-dev sass-loader sass
 ```
 npm i --save-dev html-webpack-plugin
 ```
+
+```
+npm i --save-dev webpack-dev-server
+```
