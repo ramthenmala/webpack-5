@@ -9,3 +9,7 @@ npm i --save lodash
 ```
 npm i --save-dev css-loader style-loader
 ```
+
+```
+npm i --save-dev sass-loader sass
+```
