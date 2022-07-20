@@ -1,0 +1,11 @@
+$header-color: red;
+$btn-background-color: yellow;
+
+#header {
+    color: $header-color;
+    font-weight: bold;
+}
+
+.button{
+    background-color: $btn-background-color;
+}
