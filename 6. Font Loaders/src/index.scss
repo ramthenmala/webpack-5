@@ -1,0 +1,12 @@
+$header-color: red;
+$btn-background-color: yellow;
+
+.header {
+    color: $header-color;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+.button{
+    background-color: $btn-background-color;
+}
