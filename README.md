@@ -25,3 +25,7 @@ npm i --save-dev webpack-dev-server
 ```
 npm i --save-dev copy-webpack-plugin
 ```
+
+```
+npm install --save-dev webpack-bundle-analyzer
+```
