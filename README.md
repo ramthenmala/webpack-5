@@ -21,3 +21,7 @@ npm i --save-dev html-webpack-plugin
 ```
 npm i --save-dev webpack-dev-server
 ```
+
+```
+npm i --save-dev copy-webpack-plugin
+```
